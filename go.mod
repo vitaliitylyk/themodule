@@ -1,4 +1,4 @@
-module github.com/vitaliitylyk/themodule
+module github.com/vitaliitylyk/themodule/v2
 
 go 1.22.6
 
